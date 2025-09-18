@@ -38,11 +38,6 @@ Some of our repos you’ll find here:
 
 ---
 
-## 📄 License
-All PgBee projects are licensed under the **MIT License** unless stated otherwise.  
-See individual repos for details.  
-
----
 
 ## 📬 Connect With Us
 - 🌐 Website: [pgbee.com](https://pgbee.in) _(placeholder)_  
