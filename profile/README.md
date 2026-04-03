@@ -40,7 +40,7 @@ Some of our repos you’ll find here:
 
 
 ## 📬 Connect With Us
-- 🌐 Website: [pgbee.com](https://pgbee.in) _(placeholder)_  
+- 🌐 Website: [pgbee.in](https://pgbee.in) 
 - 📧 Email: support@pgbee.com  
 - 💼 LinkedIn: [PgBee](https://linkedin.com/company/pgbee)  
 
